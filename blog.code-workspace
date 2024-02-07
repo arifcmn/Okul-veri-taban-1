@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "console"
+		},
+		{
+			"path": "data"
+		},
+		{
+			"path": "services"
+		},
+		{
+			"path": "webapi"
+		}
+	],
+	"settings": {}
+}
