@@ -1,15 +1,16 @@
-SOLID Prensipleri
+okul veri tabanı projesi
 
-https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
+Arif Çimen 21070370072
+Murat Yağız Yavaş 22070370048
 
-SDLC
+c dili ile yazilmistir.
 
-https://github.com/gokhanmerden/blogproject/blob/main/SDLC.pptx
 
-Unit Of Work ve Repository Tasarım Desenleri
+Bölüm Tablosu
+Ders Tablosu
+Öğrenci Tablosu
+Öğrenci Ders Tablosu
 
-https://medium.com/@muhammedyucedag/nedir-bu-unit-of-work-design-pattern-nas%C4%B1l-kullan%C4%B1l%C4%B1r-c7ebe79d678d
+komutlarını çağırır. 
 
-Mediator Tasarım Deseni
 
-https://refactoring.guru/design-patterns/mediator
